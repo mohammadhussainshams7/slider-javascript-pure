@@ -13,7 +13,7 @@ A simple, lightweight image slider built using **pure JavaScript** (no external 
 ## Demo
 
 Check out the live demo of the slider in action here: [Live Demo]([https://your-demo-link.com](https://mohammadhussainshams7.github.io/slider-javascript-pure/
-))
+)
 
 ## Tech Stack
 
