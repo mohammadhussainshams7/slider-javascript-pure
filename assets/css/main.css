@@ -13,7 +13,7 @@
 
 }
 .slider-items {
-    opacity: .1;
+    opacity: 0;
     transition: all 1s ;
     position: fixed;
 
